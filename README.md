@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **big data project**
 
-- 🌱 I’m currently learning **Python, GIT, AirFlow, GreenPlum, ClickHouse, SuperSet, Docker, CI/CD**
+- 🌱 I’m currently working on DWH project using **Python, GIT, AirFlow, GreenPlum, ClickHouse, SuperSet, Docker, CI/CD**
 
 - 📫 How to reach me **kimalex8589@gmail.com**
 
