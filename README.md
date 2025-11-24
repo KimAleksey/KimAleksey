@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kimalex8589@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fill free to email me</h3>
 <p align="left">
 </p>
 
