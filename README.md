@@ -56,7 +56,7 @@ Current Mission:
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
   <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/> 
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse"/> 
-  <img src="https://e7.pngegg.com/pngimages/634/19/png-clipart-greenplum-database-massively-parallel-data-warehouse-logo-others-miscellaneous-text.png" alt="GreenPlum"/>
+  <img src="https://img.shields.io/badge/greenplum-FFFFFF?style=for-the-badge&logo=greenplum&logoColor=white" alt="GreenPlum"/>
 </p>
 </details>
 
