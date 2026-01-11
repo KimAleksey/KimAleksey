@@ -6,19 +6,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=900&height=80&lines=Data+Engineer+%7C+Real-Time+Analytics;Building+Scalable+Data+Pipelines+%F0%9F%9A%80;SQL+%E2%80%A2+Python+%E2%80%A2+Airflow+%E2%80%A2+GreenPlum+%E2%80%A2+ClickHouse;Turning+Raw+Data+Into+Business+Intelligence+%E2%9A%A1" alt="Data Engineer Typing Animation" />
 
 <br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=saadkhalmadani&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/saadkhalmadani)
-![GitHub followers](https://img.shields.io/github/followers/saadkhalmadani?style=for-the-badge&color=orange&labelColor=black)
-
 </div>
 
-## My name is Saad! 
+## My name is Aleksei Kim! 
 
-**DevOps Engineer & Cloud Enthusiast (Azure) | Data Engineer (Python, SQL, Spark, Airflow)**
+**Data Engineer (Python, SQL, Airflow, PostgreSQL, GreenPlum, ClickHouse, S3, Kafka, Docker)**
 
-Based in Morocco 🇲🇦, I'm passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
+Based in Moscow, Russia 🇷🇺, I'm passionate about transforming raw data into actionable insights through **automated, scalable, and reliable data infrastructure**.
 
-I architect end-to-end data solutions that bridge the gap between **data engineering** and **DevOps**, ensuring data flows seamlessly from source to insight with enterprise-grade reliability.
 
 ```yaml
 Core Philosophy:
@@ -47,17 +42,10 @@ Current Mission:
 <summary>Data Processing & Orchestration</summary>
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark"/> 
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/> 
-  <img src="https://img.shields.io/badge/Apache_NiFi-FF6D00?style=for-the-badge&logoColor=white" alt="NiFi"/> 
-  <img src="https://img.shields.io/badge/Kylin-0078D4?style=for-the-badge&logoColor=white" alt="Kylin"/> 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> 
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logoColor=white" alt="Polars"/> 
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> 
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-  <img src="https://cdn.simpleicons.org/apachenifi/017CEE" width="40"/>
-  <img src="https://img.shields.io/badge/Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 </details>
 
@@ -66,10 +54,9 @@ Current Mission:
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/> 
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logoColor=black" alt="Hive"/>
+  <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/> 
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse"/> 
+  <img src="https://e7.pngegg.com/pngimages/634/19/png-clipart-greenplum-database-massively-parallel-data-warehouse-logo-others-miscellaneous-text.png" alt="GreenPlum"/>
 </p>
 </details>
 
@@ -232,41 +219,9 @@ Monitoring: Real-time metrics • Data quality validation • Alert systems
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Overview
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saadkhalmadani&theme=tokyonight)
-
-### 🔥 Streak & Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saadkhalmadani&theme=tokyonight&hide_border=true)](https://github.com/saadkhalmadani)
-
-### 📊 Detailed Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadkhalmadani&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saadkhalmadani&theme=tokyonight&utcOffset=1" alt="Productive Time" />
-</p>
-
-### 💻 Language Distribution
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saadkhalmadani&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-
-</div>
-
-
----
-
 <div align="center">  
   <h3>💬 Let's Connect & Build Something Amazing!</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-khalmadani)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimaleksei/)
 
 </div>
