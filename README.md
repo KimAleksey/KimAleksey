@@ -99,9 +99,6 @@ Current Mission:
 
 <div align="left">
 
-[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dofusdataforge-project.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/DofusDataForge-project)
-
 **What it does:**
 This repository contains a ready-made implementation for downloading money transfer rates via the Golden Crown service. The project:
 - ✔️ Retrieves exchange rates via the KoronaPay API
