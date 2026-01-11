@@ -94,36 +94,6 @@ Current Mission:
 
 ## 🚀 Featured Projects
 
-### [NiFi CI/CD Pipeline](https://github.com/dataops-g1p2/nificicd-g1p2)
-> **Enterprise-Grade Data Flow Automation Platform**
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dataops-g1p2/nificicd-g1p2)
-
-**What it does:**
-- Automates Apache NiFi data flow deployments across multiple environments
-- Implements GitOps workflow with branch-based promotion strategy
-- Integrates version control with NiFi Registry for complete audit trails
-- Eliminates manual deployment errors through intelligent automation
-
-**Business Impact:**
-```
-Deployment Time: 2 hours → 15 minutes (87.5% reduction)
-Manual Errors: 15% failure rate → 0% (100% elimination)
-Developer Onboarding: 2 days → 4 hours (75% reduction)
-```
-
-**Technical Architecture:**
-```
-Infrastructure: Terraform → Azure (Dev/Staging/Prod environments)
-CI/CD Pipeline: GitHub Actions → Change Detection → Automated Deployment
-Version Control: NiFi Registry ↔ Git Hooks → Automatic Synchronization
-GitOps Flow: develop → staging → main (PR-based promotion)
-```
-
-</div>
-
 ### [Currency](https://github.com/KimAleksey/Pet-project-currency)
 > **Receiving and storing exchange rates for money transfers via the Golden Crown service**
 
