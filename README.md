@@ -54,9 +54,9 @@ Current Mission:
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
-  <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/> 
+  <img src="https://img.shields.io/badge/greenplum-008774?style=for-the-badge&logo=greenplum&logoColor=white" alt="GreenPlum"/>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white" alt="ClickHouse"/> 
-  <img src="https://img.shields.io/badge/greenplum-FFFFFF?style=for-the-badge&logo=greenplum&logoColor=white" alt="GreenPlum"/>
+  <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/> 
 </p>
 </details>
 
@@ -71,55 +71,12 @@ Current Mission:
 </details>
 
 <details>
-<summary>Cloud & Big Data</summary>
-<br>
-
-  <details>
-  <summary>Cloud Providers</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> 
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> 
-  </p>
-  </details>
-
-  <details>
-  <summary>Azure Data Services</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Lake"/>
-    <img src="https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure SQL Database"/>
-    <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Cosmos DB"/>
-    <img src="https://img.shields.io/badge/Azure_Databricks-F16726?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks"/>
-    <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Synapse Analytics"/>
-    <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory"/>
-    <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Blob Storage"/>
-    <img src="https://img.shields.io/badge/Azure_Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Functions"/>
-    <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Key Vault"/>
-    <img src="https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Event Hubs"/>
-    <img src="https://img.shields.io/badge/Azure_Logic_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Logic Apps"/>
-  </p>
-  </details>
-
-  <details>
-  <summary>Big Data</summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop"/>
-  </p>
-  </details>
-
-</details>
-
-<details>
 <summary>Visualization & Analytics</summary>
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/> 
   <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logoColor=white" alt="Superset"/> 
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logoColor=white" alt="Matplotlib"/> 
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 </details>
 
@@ -128,11 +85,8 @@ Current Mission:
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/> 
   <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/> 
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 </details>
 
@@ -170,52 +124,29 @@ GitOps Flow: develop → staging → main (PR-based promotion)
 
 </div>
 
-### [DofusDataForge](https://github.com/saadkhalmadani/DofusDataForge-project)
-> **Intelligent Data Scraping & Visualization Platform**
+### [Currency](https://github.com/KimAleksey/Pet-project-currency)
+> **Receiving and storing exchange rates for money transfers via the Golden Crown service**
 
 <div align="left">
 
 [![Live Demo](https://img.shields.io/badge/%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dofusdataforge-project.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/DofusDataForge-project)
 
-**Demo Credentials:** `bob` / `bobpass`
-
 **What it does:**
-- Extracts and structures complex gaming data from web sources
-- Implements robust data validation and quality checks
-- Provides interactive analytics through modern dashboards
-- Supports multiple export formats with optimized performance
+This repository contains a ready-made implementation for downloading money transfer rates via the Golden Crown service. The project:
+- ✔️ Retrieves exchange rates via the KoronaPay API
+- ✔️ Saves raw data to the raw.korona_transfer_rates table
+- ✔️ Updates current rates in ods.korona_transfer_rates
+- ✔️ Maintains rate history (SCD Type 2) in dds.korona_transfer_rates
+- ✔️ Can be run as a script or via Airflow DAG
+- ✔️ Works with Sensors in Airflow DAG
 
 **Technical Highlights:**
 ```
-Architecture: Web Scraping → Data Processing → Storage → Visualization
-Pipeline: Selenium + BeautifulSoup → Pandas → PostgreSQL → Streamlit
-Performance: Real-time filtering • Advanced search • Export optimization
+Architecture: Web Scraping → Data Processing → Storage
+Pipeline: API + Airflow → PostgreSQL
+Performance: Real-time data extraction • ETL • Storing data
 ```
-
-</div>
-
-### [Real-Time CDC Streaming](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
-> **Enterprise IoT Data Streaming Platform**
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadkhalmadani/realtime-cdc-streaming-project)
-
-**What it does:**
-- Ingests high-volume IoT sensor data in real-time
-- Implements Change Data Capture for database synchronization  
-- Processes streaming data with fault-tolerant architecture
-- Delivers actionable insights through interactive dashboards
-
-**Technical Architecture:**
-```
-Data Flow: IoT Sensors → Kafka → Spark → PostgreSQL → Superset
-CDC Pipeline: Database Changes → Debezium → Kafka → Stream Processing
-Monitoring: Real-time metrics • Data quality validation • Alert systems
-```
-
-</div>
 
 ---
 
